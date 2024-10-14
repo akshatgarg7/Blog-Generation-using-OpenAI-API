@@ -1,0 +1,1 @@
+I have used open ai api key to generate a blog for a given topic by giving topic name, no of words in the blog and for what kind of job profile.
